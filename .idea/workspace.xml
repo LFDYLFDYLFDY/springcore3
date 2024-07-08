@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34f33904-99d3-4d37-b5a9-84a7b7221940" name="Changes" comment="32dwdwd1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hrNbsTYVLWbGzAqQHxe7zZHoN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.App.executor": "Run",
+    "Application.App2.executor": "Run",
+    "Application.App3.executor": "Run",
+    "Application.AppSpring.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LFDY/IdeaProjects/springcore_2-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40114942",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.lfdy.spring.current.home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lfdy.spring.current.simple.App" />
+      <module name="myfirstspring_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lfdy.spring.current.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lfdy.spring.current.App1" />
+      <module name="myfirstspring_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lfdy.spring.current.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lfdy.spring.current.App2" />
+      <module name="myfirstspring_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lfdy.spring.current.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lfdy.spring.current.App3" />
+      <module name="myfirstspring_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lfdy.spring.current.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lfdy.spring.current.home.MainApp" />
+      <module name="myfirstspring_13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lfdy.spring.current.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App3" />
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f33904-99d3-4d37-b5a9-84a7b7221940" name="Changes" comment="" />
+      <created>1718348312601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718348312601</updated>
+      <workItem from="1718348313797" duration="11735000" />
+      <workItem from="1718600665702" duration="15451000" />
+      <workItem from="1720417537021" duration="10648000" />
+    </task>
+    <task id="LOCAL-00001" summary="2">
+      <option name="closed" value="true" />
+      <created>1718362409233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718362409233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3">
+      <option name="closed" value="true" />
+      <created>1718367314487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367314487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="32">
+      <option name="closed" value="true" />
+      <created>1718367527776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367527776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="32dwdwd">
+      <option name="closed" value="true" />
+      <created>1718367673408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367673408</updated>
+    </task>
+    <task id="LOCAL-00005" summary="32dwdwd">
+      <option name="closed" value="true" />
+      <created>1718367714495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367714495</updated>
+    </task>
+    <task id="LOCAL-00006" summary="32dwdwd">
+      <option name="closed" value="true" />
+      <created>1718367976571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367976571</updated>
+    </task>
+    <task id="LOCAL-00007" summary="32dwdwd">
+      <option name="closed" value="true" />
+      <created>1718604253696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718604253696</updated>
+    </task>
+    <task id="LOCAL-00008" summary="32dwdwd1">
+      <option name="closed" value="true" />
+      <created>1718612472585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718612472585</updated>
+    </task>
+    <task id="LOCAL-00009" summary="32dwdwd1">
+      <option name="closed" value="true" />
+      <created>1718619757607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718619757607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="32" />
+    <MESSAGE value="32dwdwd" />
+    <MESSAGE value="32dwdwd1" />
+    <option name="LAST_COMMIT_MESSAGE" value="32dwdwd1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/App2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/AnnotatedBean.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/simple/ShopService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/App3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/simple/ShopService.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/home/Product.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/lfdy/spring/current/simple/ShopService.java</url>
+          <line>21</line>
+          <properties field="productService" class="ru.lfdy.spring.current.simple.ShopService" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

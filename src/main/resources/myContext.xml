@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd">
+<bean id ="simpleBean" class="ru.lfdy.spring.current.SimpleBean " scope="prototype"/>
+<bean id="animalsClassNameGenerator" class="ru.lfdy.spring.current.AnimalsClassNameGenerator"/>
+    <bean id="shapesClassNameGenerator" class="ru.lfdy.spring.current.ShapesClassNameGenerator"/>
+
+    <bean id ="javaCodeCreator" class = "ru.lfdy.spring.current.JavaCodeCreator">
+    <property name="classNameGenerator">
+       <ref bean="animalsClassNameGenerator"/>
+    </property>
+</bean>
+
+    <bean id = "cppCodeCreator" class="ru.lfdy.spring.current.CppCodeCreator">
+<!--      <constructor-arg ref="animalsClassNameGenerator"/>&ndash;&gt;-->
+        <constructor-arg ref="shapesClassNameGenerator"/>
+    </bean>
+
+
+
+
+
+
+</beans>
